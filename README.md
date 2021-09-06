@@ -4,7 +4,8 @@ This repository was created in order to submit the project about IMS(Inventory M
 
 I have created this project on my own without any third party's help
 
-In this project:
+About this project:
+
 In the Inventory management project.ipynb:
         - At first I have written a code to create a json file for products to access eith some initial values.
         
@@ -13,9 +14,16 @@ In the Inventory management project.ipynb:
          
         -Also in the part the changes made by the user by accessing the file are also stored in different format of file like( csv , txt , json )
         
-        -THen in final part the user can view hages made and the data stored in various format by executing all codes in final part
+        -Then in final part the user can view chages made and the data stored in various format by executing all codes in final part
         
 I wish that is sufficient details about my Inventory mangement project....
 
                                             Thank you for Reading this file, Have a Nice Day.....
       
+About Me:
+       I am M.MANOJ , studying BCA Final year at C.Abdul Hakeem college .
+
+Contact Me:
+       LinkedIn : https://www.linkedin.com/in/manoj-m-aba33021a
+       Email Id : manojroman3427@gmail.com
+ 
